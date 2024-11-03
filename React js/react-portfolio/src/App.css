@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+  font-family: sans-serif;
+  color: black;
+}
+.nav-bar {
+  background-color: beige;
+  display: flex;
+  justify-content: space-evenly;
+}
